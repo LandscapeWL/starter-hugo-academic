@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Wang Lei 王磊
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Lei
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Pdh Student of Landscape Architecture
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tianjin University
+    url: http://www.tju.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -23,21 +23,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Vision
+  - Urban Spatial Perception
+  - Multi-source Urban Data Calculation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Landscape Architecture
+      institution: Tianjin University
+      year: 2021
+    - course: Master in Landscape Architecture
+      institution: Tianjin Chengjian University
+      year: 2018
+    - course: Bachelor in Landscape
+      institution: Henan University of Science and Technology
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,8 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I am a curious explorer of urban science. I really enjoy using the latest technologies ( e.g. any computer vision approach) to explore problems and phenomena in cities, which makes me interested in exploring emerging urban issues.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
