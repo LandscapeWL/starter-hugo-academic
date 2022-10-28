@@ -18,7 +18,7 @@ organizations:
     url: http://www.tju.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computational Vision, Urban Spatial Perception and Multi-source Urban Data Calculation.
 
 # Interests to show in About widget
 interests:
@@ -47,32 +47,30 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:wanglei2021@tju.edu.cn'
+
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/LandscapeWL
+
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Lei-Wang-739
+
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7067-3732
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
