@@ -22,10 +22,11 @@ bio: My research interests include Computational Vision, Urban Spatial Perceptio
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Vision
-  - Urban Spatial Perception
-  - Multi-source Urban Data Calculation
+  - Urban Informatics
+  - Geographic Information Science
+  - Geospatial Artificial Intelligence
+  - Urban Data Science
+  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -76,6 +77,8 @@ social:
 highlight_name: true
 ---
 
- I am a curious explorer of urban science. I really enjoy using the latest technologies ( e.g. any computer vision approach) to explore problems and phenomena in cities, which makes me interested in exploring emerging urban issues.
+I am a Ph.D. student of Landscape Architecture in Tianjin University. Advised by [Professor He Jie](https://www.researchgate.net/profile/Jie-He-20). Currently, I am working on urban spatial and place computation for [Urban Spatial Humanities and Place Computation Laboratory (SHAPC lab)](http://faculty.hitsz.edu.cn/hejie). 
+
+My research interests lie at the intersection of computer vision, geospatial big data, social media analytics, and geospatial artificial intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
