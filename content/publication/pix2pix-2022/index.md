@@ -5,8 +5,8 @@ title: The Application of Computer Deep Learning in Relics Landscape Restoration
 subtitle: 计算机深度学习在遗迹景观修复中的应用研究
 summary: ''
 authors:
-- 王磊
-- 李鹏波
+- Lei Wang
+- PengBo Li
 tags:
 - 人工智能
 - 深度学习
@@ -40,7 +40,7 @@ publishDate: '2022-10-28T12:43:16.936233Z'
 publication_types:
 - '2'
 abstract: With the rapid disappearance and deterioration of monument landscapes, it is particularly important to carry out systematic and scientific research on conservation and restoration. In this study, we propose an artificial intelligence approach based on the remote sensing images of the relic landscape satellite as the basic research data, and use an adversarial generative neural network (GAN) to repair the damaged and missing sections of the relic landscape by feature learning and feature restoration, so as to provide new orientation interpretation and theoretical support for the study of the spatial layout of the relic landscape and subsequent conservation work. The results show that the spatial feature data and logical relationships can be effectively learned and restored in the monument landscape by using the deep learning specific data learning and parsing ability of computer.
-publication: '*华中建筑 HUAZHONG ARCHITECTURE*'
+publication: '*HUAZHONG ARCHITECTURE*'
 doi: 10.13942/j.cnki.hzjz.2022.01.008
 links:
 
