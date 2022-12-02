@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Lei 王磊
+title: Wang Lei
 
 # Full name (for SEO)
 first_name: Lei
