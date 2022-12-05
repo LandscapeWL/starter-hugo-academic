@@ -81,4 +81,4 @@ I am a Ph.D. student of Landscape Architecture in Tianjin University. Advised by
 
 My research interests lie at the intersection of computer vision, geospatial big data, social media analytics, and geospatial artificial intelligence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
