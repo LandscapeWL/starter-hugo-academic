@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Lei
+title: Lei WANG
 
 # Full name (for SEO)
 first_name: Lei
@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student of Landscape Architecture in Tianjin University. Advised by [Professor He Jie](https://www.researchgate.net/profile/Jie-He-20). Currently, I am working on urban spatial and place computation for [Urban Spatial Humanities and Place Computation Laboratory (SHAPC lab)](http://faculty.hitsz.edu.cn/hejie). 
+I am a Ph.D. student of Landscape Architecture in Tianjin University. Advised by [Professor Jie He](https://www.researchgate.net/profile/Jie-He-20). Currently, I am working on urban spatial and place computation for [Urban Spatial Humanities and Place Computation Laboratory (SHAPC lab)](http://faculty.hitsz.edu.cn/hejie). 
 
 My research interests lie at the intersection of computer vision, geospatial big data, social media analytics, and geospatial artificial intelligence.
 
